@@ -29,7 +29,7 @@
 }
 
 .newGrid:hover {
-    color: #ffffff !important;
+    color: #FF0000 !important;
     background: #4c5856;
     border-color: #191306 !important;
     transition: all 0.4s ease 0s;
